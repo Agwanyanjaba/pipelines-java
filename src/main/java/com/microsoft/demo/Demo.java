@@ -10,3 +10,4 @@ public class Demo {
         System.out.println("I am not covered");
     }
 }
+//Testing CI pipelines with AZURE in git hub
